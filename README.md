@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on ...Eletrica residencial predial e manutenção
 - 🌱 I’m currently learning ... Python C# html css
--- 💬 Ask me about ...
 - ⚡ Fun fact: ... impressao 3d aeromodelismo
 - 📫 How to reach me: 
 <div>
